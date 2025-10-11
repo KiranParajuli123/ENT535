@@ -1,4 +1,4 @@
-Date Lure Set,Date Last Checked,Date Checked,Ordinal Date,Time,Expt,Site,Lat,Lon,Elevation,Block,Lure,Osmoderma spp,Elater abruptus,Bycatch
+Date Lure Set,Date Last Checked,Date Checked,Ordinal Date,Time,Expt,Site,Lat,Lon,Elevation,Block,Lure,Osmoderma_spp,Elater_abruptus,Bycatch
 30-Jul-25,N/A,31-Jul-25,212,9:20 AM,2025GDL,Stone Valley,40.644105,-77.927367,245.825562,1,Control,0,1,2
 30-Jul-25,N/A,31-Jul-25,212,9:20 AM,2025GDL,Stone Valley,40.644105,-77.927367,245.825562,1,R-gamma-decalactone,0,0,0
 30-Jul-25,N/A,31-Jul-25,212,9:25 AM,2025GDL,Stone Valley,40.644778,-77.924646,264.687134,2,Control,1,0,1
@@ -63,3 +63,4 @@ Date Lure Set,Date Last Checked,Date Checked,Ordinal Date,Time,Expt,Site,Lat,Lon
 30-Jul-25,7-Aug-25,12-Aug-25,224,10:00 AM,2025GDL,Stone Valley,40.646675,-77.922128,263.449341,3,R-gamma-decalactone,0,0,3
 30-Jul-25,7-Aug-25,12-Aug-25,224,10:00 AM,2025GDL,Stone Valley,40.64591,77.92306,,4,Control,0,0,1
 30-Jul-25,7-Aug-25,12-Aug-25,224,10:00 AM,2025GDL,Stone Valley,40.64591,77.92306,,4,R-gamma-decalactone,1,2,0
+
